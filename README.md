@@ -2,7 +2,7 @@
 # FaC (FFRDCs-as-Code)
   
 ## Purpose
-The purpose of `FaC`( pronounced 'Fake') is to take an industry concept of software defined anything/everything (`SDX`) and apply it to Federally Funded Research and Development Centers (`FFRDCs`).
+The purpose of `FaC` is to take an industry concept of software defined anything/everything (`SDX`) and apply it to Federally Funded Research and Development Centers (`FFRDCs`).
 
 ## Principles
 The engineering principles used are: abstraction, modularity, portability encapsulation, and ephemeralness.  The procedures/processes incorporated into the software are containerization, infrastructure-as-code, system-as-code.
