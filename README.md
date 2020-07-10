@@ -29,5 +29,5 @@ The engineering principles used are: abstraction, modularity, portability encaps
 ## Legal
 Copyright 2018 National Technology & Engineering Solutions of Sandia, LLC (NTESS). Under the terms of Contract DE-NA0003525 with NTESS, the U.S. Government retains certain rights in this software.
 
-`FaC` is released under the [GNU General Public License version 2.0](../GPL), which is an [open source license](https://opensource.org/docs/osd).  The `FaC` project wanted GPL-2.0 so the public can have the freedom to share and change the free software. `FaC` uses other open source technologies: `Git`, `Docker`, `Wordpress`, `MySQL`, and `wp-cli`
-Please see attribution and third-party licenses to the listed technologies at: [`third-party-licenses`](../third-party-licenses)
+`FaC` is released under the [GNU General Public License version 2.0](./LICENSE), which is an [open source license](https://opensource.org/docs/osd).  The `FaC` project wanted GPL-2.0 so the public can have the freedom to share and change the free software. `FaC` uses other open source technologies: `Git`, `Docker`, `Wordpress`, `MySQL`, and `wp-cli`
+Please see attribution and third-party licenses to the listed technologies at: [`third-party-licenses`](./third-party-licenses/README.md)
